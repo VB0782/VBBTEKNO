@@ -1,0 +1,75 @@
+﻿/* { margin:0px; padding:0px;} */
+
+.logo {
+    height: 40px;
+    width: 182px;
+    border: solid 1px;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-right-color: black;
+    border-left-color: black;
+    margin: 0px;
+    background-color: black;
+    color: red;
+    border-radius: 25px;
+}
+
+.slogan {
+    width: 962px;
+    border: 1px/*none*/
+    ;
+    margin: 0px;
+    position: fixed;
+    height: 40px;
+    left: 198px;
+    top: 8px;
+    font-size: 36px;
+    text-align: Center;
+}
+
+.Populer {
+    border: 1px solid red;
+    width: 1010px;
+    height: 35px;
+    position: fixed;
+    top: 57px;
+    left: 150px;
+}
+
+.Donanım {
+    width: 500px;
+    height: 310px;
+    border: 1px solid red;
+    position: fixed;
+    top: 100px;
+    left: 150px;
+    text-align: center;
+    color: black;
+}
+
+.Mobil {
+    width: 500px;
+    height: 310px;
+    border: 1px solid red;
+    position: fixed;
+    top: 100px;
+    left: 660px;
+    text-align: center;
+    color: black;
+}
+
+.İncelemeler {
+    border: 1px solid red;
+    width: 1010px;
+    height: 200px;
+    position: fixed;
+    left: 150px;
+    top: 420px;
+    color: black;
+    text-align: Center;
+}
+
+.Uygulamalar {
+    width: 100%;
+    height:50%;
+}
